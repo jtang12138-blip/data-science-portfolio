@@ -29,14 +29,15 @@ My interests include data analysis, machine learning, data visualization, and ne
 
 Which factors are associated with higher wine quality, and what differences exist between red and white wines?
 
-### Key Finding
+### Key Findings
 
-Higher quality wines generally have:
+- Alcohol shows the strongest positive correlation with wine quality (r = 0.44).
 
-- Higher alcohol content
-- Lower volatile acidity
+- Volatile acidity is negatively correlated with wine quality (r = -0.26).
 
-Alcohol shows the strongest positive correlation with wine quality.
+- Higher-quality wines are generally associated with higher alcohol content and lower volatile acidity.
+
+- Free sulfur dioxide and total sulfur dioxide show a strong positive relationship (r = 0.72).
 
 ### Visualization
 

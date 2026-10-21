@@ -40,10 +40,9 @@ Alcohol shows the strongest positive correlation with wine quality.
 
 ### Visualization
 
-![Wine Quality Analysis](https://raw.githubusercontent.com/jtang12138-blip/data-science-project/main/visualization1_WineQuality_HighQualityZone.png)
-### Correlation Heatmap
+<img width="1255" height="734" alt="visualization1_WineQuality_HighQualityZone" src="https://github.com/user-attachments/assets/985f45b7-9116-4dd6-97c1-41af4f928925" />
 
-https://raw.githubusercontent.com/jtang12138-blip/data-science-project/main/visualization2_Wine%20Quality%20Dataset%20Correlation%20Matrix.png
+<img width="3270" height="2963" alt="visualization2_Wine Quality Dataset Correlation Matrix" src="https://github.com/user-attachments/assets/5b1e5c3b-6637-492f-8bc0-e99378512965" />
 
 ### Project Repository
 
